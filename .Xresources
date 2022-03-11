@@ -1,0 +1,8 @@
+! ------------------------------------------------------------------------------
+! Import Colour from ~/.xrdb
+! ------------------------------------------------------------------------------
+
+#include "/home/evo/.xrdb/color/nord"
+#include "/home/evo/.xrdb/rofi/nord"
+#include "/home/evo/.xrdb/dmenu/nord"
+#include "/home/evo/.xrdb/fonts/tewi"
