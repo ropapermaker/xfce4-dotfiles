@@ -1,5 +1,5 @@
 favorites=firefox.desktop,xfce4-terminal.desktop,org.xfce.Parole.desktop,galculator.desktop,thunar.desktop,xfce4-taskmanager.desktop,xfce-settings-manager.desktop,pavucontrol.desktop,eos-log-tool.desktop,welcome.desktop
-recent=xfce-ui-settings.desktop,xfce-wm-settings.desktop,xfce-settings-manager.desktop,xed.desktop,panel-preferences.desktop,xfce4-settings-editor.desktop
+recent=xfce-wm-settings.desktop,xfce-ui-settings.desktop,xfce-settings-manager.desktop,xed.desktop,panel-preferences.desktop,xfce4-settings-editor.desktop
 button-title=EndeavourOS\ \ 
 button-icon=/home/evo/.config/tint2/icons/launch.png
 button-single-row=false
